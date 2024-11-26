@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-gray-100">
-      <h1 className="text-4xl font-bold mb-6 text-blue-500">สุ่มคำศัพท์ภาษาจีน</h1>
+      <h1 className="text-4xl font-bold mb-6 text-blue-500">สุ่มคำศัพท์ภาษาจีน V0.1</h1>
       <button
         onClick={getRandomVocab}
         className="px-4 py-2 mb-6 text-white bg-blue-500 rounded hover:bg-blue-600"
